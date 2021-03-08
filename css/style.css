@@ -4,4 +4,6 @@
 }
 
 .box2 {
+  border: 5px solid black;
+  height: 100px;
 }
